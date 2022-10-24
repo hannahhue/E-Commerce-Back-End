@@ -2,12 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This is a back end example for a website. It mimics a e-commerce and shows categories, and their products. You can see the progress through the insominia live host. My motivation for this project was to see if i could successfully implement routes and connect many database tables to each other while interacting with sql. It solves having to use individule database tables and can provide a suite of services to businesses of all sizes. I learned about how interating with Sequelize with API's can make coding so much easier while managing multiple tables.
 
 ## Installation
 
@@ -15,11 +10,17 @@ No installation required
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+To use just install
 
-To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+run npm start
+
+then view the live host on port 3001!
+
+navigate through GET/POST/DELETE
 
 ![alt text](assets/images/screenshot.png)
+
+Watch link:
 
 ## Credits
 
