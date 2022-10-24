@@ -117,7 +117,7 @@ router.delete("/:id", async (req, res) => {
     const productData = await Product.findByPk(req.params.id);
     await productData.destroy();
     if (!productData) {
-      res.status(404).json({ message: "No Category found with that id!" });
+      res.status(404).json({ message: "No Product found with that id!" });
       return;
     }
 
