@@ -18,9 +18,9 @@ then view the live host on port 3001!
 
 navigate through GET/POST/DELETE
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/iimgs/insomnia.PNG)
 
-Watch link:
+Watch link: https://watch.screencastify.com/v/sXCQFShHHpu9yQDLlLOH
 
 ## Credits
 
